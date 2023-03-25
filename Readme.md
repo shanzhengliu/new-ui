@@ -1,1 +1,1 @@
-Here is a sample module
+Here is a sample project and write something interesting.
